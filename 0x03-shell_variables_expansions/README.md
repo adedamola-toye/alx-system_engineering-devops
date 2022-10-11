@@ -1,1 +1,1 @@
-0-alias - Creates a script that creates an alias
+0-alias - Creates an alias with name ls and value rm *
