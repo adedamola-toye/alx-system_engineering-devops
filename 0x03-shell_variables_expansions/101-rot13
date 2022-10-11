@@ -1,2 +1,2 @@
 #!/bin/bash
-tr "[A,a,B,b]" "[N,n,O,o]"
+tr "A-Za-z" "N-ZA-Mn-za-m"
